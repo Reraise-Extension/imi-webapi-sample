@@ -1,0 +1,12 @@
+{
+  "name": "imi-tools",
+  "version": "1.0.0",
+  "description": "住所変換ツール",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node package/bin/server.js 8080",
+    "dev": "node index.mjs"
+  },
+  "author": "",
+  "license": "ISC"
+}
